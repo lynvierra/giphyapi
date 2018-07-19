@@ -10,3 +10,5 @@ To get started, enter a topic you are interested in.  The page is started with H
 This project is maintained by Lyn Vierra.
 
 If you need help with the page please contact lynvierra@gmail.com.
+
+https://lynvierra.github.io/giphyapi/
