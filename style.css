@@ -1,0 +1,26 @@
+#wrapper {
+margin: 10 auto;
+
+}
+
+body {
+	background-image: url("bground.jpg");
+	text-align: center;
+	color: red;
+}
+
+.jumbotron {
+	background: Black;	
+}
+
+
+img {
+width: 40%;
+margin: 10px;
+}
+
+button {
+	margin: 5px;
+	padding: 8px;
+}
+
